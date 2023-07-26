@@ -17,7 +17,7 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
-![img_3.png](img_3.png)
+![img_3.png](https://github.com/alexandrelopesdev/app-ui-design-in-flutter/blob/main/shopping_app_ui_design/chopping_app_ui/img_3.png)
 
 ![img_1.png](img_1.png)
 
